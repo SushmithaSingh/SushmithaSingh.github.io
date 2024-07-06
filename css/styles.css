@@ -1,0 +1,39 @@
+.container {
+    font-family: sans-serif;
+    background-color: rgb(159, 156, 156);
+    margin: 10px;
+    padding: 20px;
+}
+
+nav .heading {
+    background-color: rgb(57, 56, 55);
+    color: white;
+}
+
+nav .heading .introduction p {
+    font-style: italic;
+}
+
+nav .heading .introduction a {
+    color: rgb(219, 192, 244);
+}
+
+nav .heading .introduction a:hover {
+    color: rgb(123, 33, 208);
+}
+
+nav .image img {
+    width: 200px;
+    height: 200px;
+    padding: 8px;
+    border-radius: 50%;
+}
+
+nav .introduction {
+    align-items: center;
+}
+
+.experience table {
+    text-align: center;
+
+}
